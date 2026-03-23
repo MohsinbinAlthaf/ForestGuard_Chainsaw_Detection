@@ -38,4 +38,4 @@ local mesh handles communication between units and a base node.
 
 ## Assets
 
-![Setup](./assets/Working Demo.mp4)
+(./assets/Working Demo.mp4)
